@@ -1,0 +1,6 @@
+/.vscode
+/bin
+/dst_folder
+/obj
+/src_folder
+/*.log
